@@ -1,9 +1,5 @@
-streamlit==1.28.0
-deepface>=0.0.90  # Or the specific version you tested with
-opencv-python>=4.8.0
-pillow==10.0.1
-numpy==1.26.0
-pandas==2.1.1
-tensorflow-cpu>=2.16.0
-tensorflow==2.11  # or 2.10
-keras==2.12.0
+streamlit
+face_recognition
+Pillow  # PIL fork
+numpy
+opencv-python 
