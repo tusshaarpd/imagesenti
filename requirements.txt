@@ -1,5 +1,5 @@
 streamlit==1.28.0
-deepface==0.0.89  # Or the specific version you tested with
+deepface>=0.0.90  # Or the specific version you tested with
 opencv-python-headless==4.8.1.78
 pillow==10.0.1
 numpy==1.26.0
